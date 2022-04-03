@@ -35,16 +35,17 @@ Pratik Mate:
 Mohammad Mobin Menon:
 
 Individual Team Contribution:-
+Mohammad Mobin Menon:-
+My responsibilities were focused on search sorting with cities, price & ratings of the properties.
+Added the sorting functionality using HTML, CSS & JavaScript.
 
-Md Owais Athar:- 
-My responsibilities were focused on building the homepage of the website.
-I have used the HTML & CSS part to build the website homepage and functionality added by using JavaScript.
 
-GitHub repo : https://github.com/owii8247/Hometogo_Unit2_project
 
-Netlify link : https://voluble-trifle-1a6e8e.netlify.app/
+GitHub repo : https://github.com/mobin07/homeToGo
 
-Medium Blog link : https://medium.com/@owais.athar.8092/collaborative-project-at-masai-school-hometo-go-clone-98016df15c63
+Netlify link : https://wondrous-swan-f147b2.netlify.app/
+
+Medium Blog link : https://medium.com/@mmobinmemon/project-details-569cceb0c04f
 
 Lakhan Yadav:-
 Lakhan responsibilities were focused on to the search section bar and adding functionality to the search bar using JavaScript.
@@ -52,14 +53,16 @@ Lakhan responsibilities were focused on to the search section bar and adding fun
 Faisal Khan:-
 Faisal responsibilites were focused on creating your account section of SignUp & LogIn section and authentication using JavaScript. 
 
+Md Owais Athar:- 
+My responsibilities were focused on building the homepage of the website.
+I have used the HTML & CSS part to build the website homepage and functionality added by using JavaScript.
+
 Jai Phookan:-
 My responsibilities were focused on building the Wishlist page.
 Jai worked on replicating the same design of the Wishlist page across the header, body and footer.
 Added the Javascript code to retrieve the data of properties added to the Wishlist from local storage and display the same on the Wishlist page
 
-Mohammad Mobin Menon:-
-Mobin responsibilities were focused on search sorting with cities, price & ratings of the properties.
-Added the sorting functionality using HTML, CSS & JavaScript.
+
 
 Pratik Mate:-
 Pratik responsibilities were focused on creating the list your property section.
